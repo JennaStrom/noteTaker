@@ -31,4 +31,26 @@ const readAndAppend = (content, file) => {
   });
 };
 
+// /**
+// * Function to remove an object by id
+// * @param {id} content The I'd of the object/item you want to delete
+// * @param {string} file The path to the file you want to save to.
+// * @returns {void} Nothing
+// */
+// const deleteById = (id, file) => {
+//   fs.readFile(file, 'utf8', (err, data) => {
+//     if (err) {
+//       console.error(err);
+//     } else {
+//       const parsedData = JSON.parse(data);
+      
+//       parsedData = parsedData.filter(function( obj ) {
+//           return obj.id !== id;
+//       });
+      
+//       writeToFile(file, parsedData);
+//     }
+//   });
+// };
+
 module.exports = { readFromFile, writeToFile, readAndAppend };
