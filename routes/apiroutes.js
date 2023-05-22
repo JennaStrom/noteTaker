@@ -1,6 +1,6 @@
 const router = require('express').Router();
 const path = require('path');
-const { readFromFile, readAndAppend, deletebyId } = require('../helpers/fsUtils.js')
+const { readFromFile, readAndAppend } = require('../helpers/fsUtils.js')
 const uuid = require('../helpers/uuid')
 
 router.get('/notes', (req, res) =>
