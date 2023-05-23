@@ -53,4 +53,8 @@ const readAndAppend = (content, file) => {
 //   });
 // };
 
+<<<<<<< HEAD
 module.exports = { readFromFile, writeToFile, readAndAppend };
+=======
+module.exports = { readFromFile, writeToFile, readAndAppend, deleteById };
+>>>>>>> 7527538dd8eb8a6d9f48e60e0ecd49e7f05255c2

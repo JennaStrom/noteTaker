@@ -4,8 +4,13 @@
 
 ## Description
   Use this application to write and save notes. 
+  
+  Here is a link to the deployed Heroku App: [https://peaceful-everglades-49227.herokuapp.com/]
+  
+  Here are screenshots of the website:
+  <img width="1391" alt="Screenshot 2023-05-22 at 7 01 35 PM" src="https://github.com/JennaStrom/noteTaker/assets/123525191/cebcb5d4-6ef1-4dd4-9094-983c57961f91">
 
-Here is a link to the deployed Heroku App: [https://peaceful-everglades-49227.herokuapp.com/]
+  <img width="1361" alt="Screenshot 2023-05-22 at 7 02 23 PM" src="https://github.com/JennaStrom/noteTaker/assets/123525191/2acff49b-e3e3-4a60-9662-4d2f55c93712">
 
 ## Table of Contents
 - [Description](#description)
